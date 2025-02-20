@@ -1,3 +1,2 @@
-wiki
 ghcr.io/requarks/wiki:2
 postgres:15-alpine
